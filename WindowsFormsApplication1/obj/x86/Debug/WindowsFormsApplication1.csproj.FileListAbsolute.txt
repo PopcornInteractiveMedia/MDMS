@@ -1,0 +1,24 @@
+G:\C#\Multimedia Database Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\C#\Multimedia Database Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\C#\Multimedia Database Management System\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+G:\C#\Multimedia Database Management System\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\C#\Multimedia Database Management System\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\C#\Multimedia Database Management System\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+G:\C#\Multimedia Database Management System\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+G:\C#\Multimedia Database Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\C#\Multimedia Database Management System\WindowsFormsApplication1\bin\Debug\BO.dll
+G:\C#\Multimedia Database Management System\WindowsFormsApplication1\bin\Debug\BO.pdb
+G:\C#\Multimedia Database Management System\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\C#\Multimedia Database Management System\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MDMS.resources
+C:\Users\Muhitur  Rahman\Desktop\mahfuz\important\Multimedia Database Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Muhitur  Rahman\Desktop\mahfuz\important\Multimedia Database Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Muhitur  Rahman\Desktop\mahfuz\important\Multimedia Database Management System\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Muhitur  Rahman\Desktop\mahfuz\important\Multimedia Database Management System\WindowsFormsApplication1\bin\Debug\BO.dll
+C:\Users\Muhitur  Rahman\Desktop\mahfuz\important\Multimedia Database Management System\WindowsFormsApplication1\bin\Debug\BO.pdb
+C:\Users\Muhitur  Rahman\Desktop\mahfuz\important\Multimedia Database Management System\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Muhitur  Rahman\Desktop\mahfuz\important\Multimedia Database Management System\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Muhitur  Rahman\Desktop\mahfuz\important\Multimedia Database Management System\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MDMS.resources
+C:\Users\Muhitur  Rahman\Desktop\mahfuz\important\Multimedia Database Management System\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Muhitur  Rahman\Desktop\mahfuz\important\Multimedia Database Management System\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Muhitur  Rahman\Desktop\mahfuz\important\Multimedia Database Management System\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Muhitur  Rahman\Desktop\mahfuz\important\Multimedia Database Management System\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

@@ -1,0 +1,10 @@
+G:\C#\Multimedia Database Management System\BO\bin\Debug\BO.dll
+G:\C#\Multimedia Database Management System\BO\bin\Debug\BO.pdb
+G:\C#\Multimedia Database Management System\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+G:\C#\Multimedia Database Management System\BO\obj\Debug\BO.dll
+G:\C#\Multimedia Database Management System\BO\obj\Debug\BO.pdb
+C:\Users\Muhitur  Rahman\Desktop\mahfuz\important\Multimedia Database Management System\BO\bin\Debug\BO.dll
+C:\Users\Muhitur  Rahman\Desktop\mahfuz\important\Multimedia Database Management System\BO\bin\Debug\BO.pdb
+C:\Users\Muhitur  Rahman\Desktop\mahfuz\important\Multimedia Database Management System\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\Muhitur  Rahman\Desktop\mahfuz\important\Multimedia Database Management System\BO\obj\Debug\BO.dll
+C:\Users\Muhitur  Rahman\Desktop\mahfuz\important\Multimedia Database Management System\BO\obj\Debug\BO.pdb
